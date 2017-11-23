@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: my.sample.loginpage
+Bundle-SymbolicName: my.sample.loginpage
+Bundle-Version: 1.0.0
+Bundle-Vendor: bluemind.net
+Fragment-Host: net.bluemind.webmodules.loginapp
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
